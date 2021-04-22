@@ -1,4 +1,3 @@
-# Mindmap Share
 
 Share some mindmap I drew.
 
