@@ -9,4 +9,4 @@ Share some mindmap I drew.
 | Logic Overview | [链接](https://gitmind.com/app/doc/7752538896) |GitMind|
 |IPFS Overview| [链接](https://www.processon.com/view/link/611649aa5653bb06f8ab836c) | ProcessOn |
 
-You can connect me via <hello@smallyu.net> if any worry with this.
+You can connect me via <dev.wangyu@gmail.com> if any worry with this.
