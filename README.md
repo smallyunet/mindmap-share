@@ -1,4 +1,4 @@
-> I will stop it because I did not found mindmap tools satisfy to me.
+> I will stop it because I did not found mindmap tools comfortable for me.
 
 Share some mindmap I drew.
 
